@@ -15,7 +15,7 @@ export function Footer() {
           <div className="flex items-center gap-2">
             <Dumbbell className="h-8 w-8 text-gold" />
             <span className="text-xl font-black text-white tracking-tight">
-              POWER <span className="text-gold">GOLD</span>
+              VETRICK <span className="text-gold">FITNESS</span>
             </span>
           </div>
 
