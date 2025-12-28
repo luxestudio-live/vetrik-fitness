@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[23493,["/vetrik-fitness/_next/static/chunks/994c5297796ddafa.js","/vetrik-fitness/_next/static/chunks/52711873db46ba3f.js"],"default"]
+3:I[26043,["/vetrik-fitness/_next/static/chunks/994c5297796ddafa.js","/vetrik-fitness/_next/static/chunks/52711873db46ba3f.js"],"default"]
+0:{"buildId":"DsUreCheBpukuYJVXSHHv","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
